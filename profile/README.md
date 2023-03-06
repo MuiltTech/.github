@@ -1,2 +1,2 @@
-# MuiltTech
-What is MuitTech?
+# MultiTech
+What is MultiTech?
